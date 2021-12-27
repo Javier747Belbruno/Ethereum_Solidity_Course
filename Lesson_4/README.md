@@ -3,8 +3,9 @@
 - pip install py-solc-x
 - pip install web3
 
-- npm install -g yarn
-- yarn global add ganache-cli
+- npm install -g yarn (not working)
+- yarn global add ganache-cli (not working)
+- npm install -g ganache-cli
 
 # Lesson 4: [Web3.py Simple Storage](https://github.com/PatrickAlphaC/web3_py_simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/web3_py_simple_storage

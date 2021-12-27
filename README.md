@@ -125,3 +125,4 @@
 - [Ethereum 2](https://ethereum.org/en/eth2/)
 ## Miscellaneous 
 - [DAOs](https://www.investopedia.com/tech/what-dao/)
+- [Python_Good_Practices](https://pycon.switowski.com/)
